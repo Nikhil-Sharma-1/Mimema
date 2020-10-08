@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorText">#ffffff</color>
+
+    <color name="colorBlue">#143D59</color>
+    <color name="colorYellow">#F4B41A</color>
+    <color name="colorActionBar">#1C435C</color>
+    <color name="colorBar">#2B5470</color>
+
+    <color name="colorMatteBlack">#171717</color>
+    <color name="colorOrange">#ED7117</color>
+
+
+</resources>

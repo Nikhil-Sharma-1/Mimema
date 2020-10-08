@@ -4,3 +4,5 @@
 <img src="icon.png" alt="Mimema Logo">
 <hr>
 
+# App in Action
+[View App in Action Here](https://www.linkedin.com/feed/update/urn:li:activity:6720066519071498241/)
